@@ -1,0 +1,11 @@
+{
+  "name": "backend-dashboard",
+  "version": "1.0.0",
+  "description": "IoT Veri Takip Paneli Backend Servisi",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mqtt": "^5.5.0",
+    "socket.io": "^4.7.5"
+  }
+}
